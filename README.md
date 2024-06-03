@@ -1,8 +1,14 @@
 # How To Setup
 
-git clone https://github.com/Anubhavbaranwal/MAP_Frontend_Challenge_01.git\
-npm install\
-npm run dev\
+ggit clone https://github.com/Anubhavbaranwal/MAP_Frontend_Challenge_01.git
+
+npm install
+
+npm run dev
+
+### ScreenShot
+![Screenshot1](./src/Assests/SS1.png)
+![Screenshot2](./src/Assests/SS2.png)
 
 [link](https://map-frontend-challenge-01-kappa.vercel.app/)
 
