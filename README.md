@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# How To Setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+git clone https://github.com/Anubhavbaranwal/MAP_Frontend_Challenge_01.git
+npm install
+npm run dev
+
+[link](https://map-frontend-challenge-01-kappa.vercel.app/)
 
 ## Available Scripts
 
