@@ -14,7 +14,6 @@ const Home = () => {
       }, []);
   return (
    <>
-     
      <CardSection title={"Events"} data={cards} loading={loading}/>
      <CardSection title={"Upcoming Events"} data={cards} loading={loading}/>
      <CardSection title={"Previous Events"} data={cards} loading={loading}/>
